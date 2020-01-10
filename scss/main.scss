@@ -78,6 +78,7 @@ body {
     display: grid;
     grid-template-columns: 3fr 2fr;
     .left-section {
+      overflow: hidden;
       position: relative;
       background-color: $mainColor;
       padding-right: 6rem;
