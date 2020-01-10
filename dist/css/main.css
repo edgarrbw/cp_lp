@@ -333,6 +333,8 @@ body {
     padding: 0 0; }
     .top-section .container .left-section {
       padding: 40px 20px; }
+      .top-section .container .left-section .left-section-container .top-header {
+        padding-top: 1rem; }
       .top-section .container .left-section .left-section-container .quote {
         font-size: 2rem; }
     .top-section .container .right-section {
