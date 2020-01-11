@@ -49,7 +49,8 @@ body {
   background-position: top center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover; }
+  background-size: cover;
+  overflow-x: hidden; }
 
 .container {
   margin: 0 auto;
@@ -358,6 +359,7 @@ body {
         width: 200px; }
       .instructor-section .instructor-container .description {
         margin-top: 40px;
+        margin-left: 0;
         text-align: center;
         font-size: 1.2rem; }
   .faqs-section {
